@@ -12,6 +12,6 @@ About controllers
 * there are three controllers in this project: Helloworld, Movies, Home 
 ( ignore the STARContrller.cs, it's test empty document)
 
-*to use each funtion, please add "/"+controller name atfer the URL. e.g. http://localhost:50791/Movies
+*to use each funtion, please add "/"+controller name atfer the URL. e.g. http://localhost:XXXX/Movies
 
 * home controller is default controller.

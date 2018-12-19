@@ -7,7 +7,7 @@ change "connectionStrings"in web.config as following:
 
 
 About controllers
-* Each model has a different controller, let think them as different functions.
+* Each model has a different controller, let's think them as different functions.
 
 * there are three controllers in this project: Helloworld, Movies, Home 
 ( ignore the STARContrller.cs, it's test empty document)
